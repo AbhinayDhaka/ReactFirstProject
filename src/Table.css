@@ -1,0 +1,73 @@
+#fourmodule{
+    position: fixed;
+        bottom: 300px;
+        right: 842px;
+  
+        width: 970px;
+      border-radius: 4px;
+        background-color: #fff;
+        height: 305px;
+  }
+
+  #Recents{
+    color: #5757e5;
+    margin-left: 2%;
+    margin-top: 1%;
+       font-size: 20px;
+  }
+  #view{
+      margin-left: 1%;
+    color: #5757e5;
+      text-decoration: underline;
+       font-size: 10px;
+  }
+  #first{
+    color: #5757e5;
+      margin-left: 10%;
+    font-family: monospace;
+    font-weight: 550;
+}
+#status{
+    margin-left: 14%;
+    color: #5757e5;
+    font-family: monospace;
+    font-weight: 550;
+  }
+  #second{
+
+    margin-left: 10%;
+}
+#Resolved1{
+    background-color: #7dd41f;
+  /* background-color: #7cc51f; */
+        border: 1px;
+        border-radius: 5px;
+        color: white;
+        width: 7rem;
+        height: 1.3rem;
+  }
+  #status{
+    margin-left: 14%;
+    color: #5757e5;
+    font-family: monospace;
+    font-weight: 550;
+  }
+  #trname{
+    margin-left: 2%
+}
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #cccccc6b;;
+  }
+  button{
+    font-style: oblique;
+  }
+  #date{
+    margin-left: 13%;
+  }
+ 
+  #user2{
+    margin-left: 13%;
+  }
+  .Resolved{
+    margin-left: 9%;
+  }
